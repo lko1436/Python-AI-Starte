@@ -1,2 +1,2 @@
 # Python-AI-Starte
-我的 Python 與 AI 學習紀錄
+記錄我從零開始學習 Python 與 AI 數據處理的過程。
